@@ -1,0 +1,7 @@
+# Custom vars
+theme_color: "#0066cc"
+css_theme: docs-italia
+pds_full: Portale delle segnalazioni
+logo: /assets/icons/logo-it.png
+cookies_policy_link: /cookies-policy/
+default_language: it

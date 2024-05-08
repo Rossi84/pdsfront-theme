@@ -1,0 +1,16 @@
+include *.txt
+include LICENSE
+include package.json
+recursive-include pdsfront_theme *.conf
+recursive-include pdsfront_theme *.css
+recursive-include pdsfront_theme *.eot
+recursive-include pdsfront_theme *.html
+recursive-include pdsfront_theme *.js
+recursive-include pdsfront_theme *.svg
+recursive-include pdsfront_theme *.png
+recursive-include pdsfront_theme *.ttf
+recursive-include pdsfront_theme *.woff
+recursive-include pdsfront_theme *.woff2
+recursive-include pdsfront_theme/data *.yaml
+recursive-include pdsfront_theme/data *.yml
+recursive-include pdsfront_theme/data *.json
